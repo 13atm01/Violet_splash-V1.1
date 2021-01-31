@@ -13,4 +13,4 @@
 ## :wrench: Installation
 
 - You can install it directly from `System Settings > Startup and Shutdown > Splash Screen > Get New Splash Screens and Search Violet Evergarden`
-- Or downloading file from my [KDE Store](https://www.pling.com/p/1477189/), extract the file and move it to the directory `~/.local/share/plasma/look-and-feel`
+- Or downloading file from my [KDE Store](https://store.kde.org/p/1477189), extract the file and move it to the directory `~/.local/share/plasma/look-and-feel`
